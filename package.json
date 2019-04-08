@@ -49,6 +49,7 @@
     "canner-helpers": "^2.0.6",
     "canner-layouts": "^2.0.7",
     "firebase": "^5.5.6",
+    "github": "^14.0.0",
     "next": "^7.0.2",
     "query-string": "^6.2.0",
     "react": "^16.6.0",
